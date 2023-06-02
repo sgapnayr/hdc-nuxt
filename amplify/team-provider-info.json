@@ -11,5 +11,31 @@
       "StackId": "arn:aws:cloudformation:us-west-2:719910384312:stack/amplify-amplify5eaac58287834-staging-30723/98f4a6c0-00f2-11ee-8b7e-0228f5820a39",
       "AmplifyAppId": "d102pk0xhc5811"
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-honeydewcare-dev-223843-authRole",
+      "UnauthRoleArn": "arn:aws:iam::719910384312:role/amplify-honeydewcare-dev-223843-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::719910384312:role/amplify-honeydewcare-dev-223843-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-honeydewcare-dev-223843-deployment",
+      "UnauthRoleName": "amplify-honeydewcare-dev-223843-unauthRole",
+      "StackName": "amplify-honeydewcare-dev-223843",
+      "StackId": "arn:aws:cloudformation:us-west-2:719910384312:stack/amplify-honeydewcare-dev-223843/fb0b7150-00f6-11ee-b52a-062cb4daa381",
+      "AmplifyAppId": "d102pk0xhc5811"
+    }
+  },
+  "hdcnuxt": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-honeydewcare-hdcnuxt-224012-authRole",
+      "UnauthRoleArn": "arn:aws:iam::719910384312:role/amplify-honeydewcare-hdcnuxt-224012-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::719910384312:role/amplify-honeydewcare-hdcnuxt-224012-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-honeydewcare-hdcnuxt-224012-deployment",
+      "UnauthRoleName": "amplify-honeydewcare-hdcnuxt-224012-unauthRole",
+      "StackName": "amplify-honeydewcare-hdcnuxt-224012",
+      "StackId": "arn:aws:cloudformation:us-west-2:719910384312:stack/amplify-honeydewcare-hdcnuxt-224012/30392e80-00f7-11ee-9c0c-0675dc9e99d7",
+      "AmplifyAppId": "d102pk0xhc5811"
+    }
   }
 }
