@@ -13,6 +13,5 @@ const auth = useAuthenticator()
         <button @click="signOut">Sign Out</button>
       </template>
     </authenticator>
-    {{ auth.route }}
   </div>
 </template>
