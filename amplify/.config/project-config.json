@@ -1,0 +1,17 @@
+{
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "honeydewcare",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "vue",
+    "config": {
+      "SourceDir": "@/",
+      "DistributionDir": ".nuxt/dist",
+      "BuildCommand": "nuxt build",
+      "StartCommand": "npm run dev"
+    }
+  }
+}
